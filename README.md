@@ -2,7 +2,7 @@
 
 Association Rules is a rule-based machine learning technique that reveals the relationship between products in each purchasing behavior in basket analysis.
 
-### Business Problem: 
+### Business Problem: 
 
 Armut, Turkey's largest online service platform, brings together service providers and those who want to receive service.
 It provides easy access to services such as cleaning, modification and transportation with a few touches on your computer or smart phone.
